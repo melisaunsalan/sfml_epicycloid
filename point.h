@@ -1,5 +1,4 @@
-#ifndef mutliplication_table_h
-#define mutliplication_table_h
+#pragma once
 
 #include <cmath>
 
@@ -23,6 +22,3 @@ struct point {
     point operator=(point p);
     
 };
-
-
-#endif
